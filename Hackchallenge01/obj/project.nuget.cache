@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "90x1SOfhaRIfpz0BZmSqb8j+AHkJKfon4jmNDd7f6yLupCqqbnsOQAG3t0Z0u4aiuO12BcoIAY5IKyKwfdqCYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\Hackchallenge01\\Hackchallenge01\\Hackchallenge01.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://packagesource'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

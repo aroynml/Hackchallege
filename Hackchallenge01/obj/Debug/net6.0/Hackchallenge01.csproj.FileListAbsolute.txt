@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\bin\Debug\net6.0\Hackchallenge01.exe
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\bin\Debug\net6.0\Hackchallenge01.deps.json
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\bin\Debug\net6.0\Hackchallenge01.runtimeconfig.json
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\bin\Debug\net6.0\Hackchallenge01.dll
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\bin\Debug\net6.0\Hackchallenge01.pdb
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\obj\Debug\net6.0\Hackchallenge01.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\obj\Debug\net6.0\Hackchallenge01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\obj\Debug\net6.0\Hackchallenge01.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\obj\Debug\net6.0\Hackchallenge01.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\obj\Debug\net6.0\Hackchallenge01.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\obj\Debug\net6.0\Hackchallenge01.dll
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\obj\Debug\net6.0\refint\Hackchallenge01.dll
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\obj\Debug\net6.0\Hackchallenge01.pdb
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\obj\Debug\net6.0\Hackchallenge01.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Hackchallenge01\Hackchallenge01\obj\Debug\net6.0\ref\Hackchallenge01.dll
